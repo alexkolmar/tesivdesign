@@ -611,8 +611,6 @@ li#onlinelist {
 
 .hotlinks a {
   background: var(--cover2);
-  backdrop-filter: blur(5px);
-  -webkit-backdrop-filter: blur(5px);
   line-height: 20px;
   width: 170px;
   text-align: center;
@@ -672,8 +670,6 @@ li#onlinelist {
 
 .tab_news {
   background: var(--cover2);
-  backdrop-filter: blur(5px);
-  -webkit-backdrop-filter: blur(5px);
   height: 100px;
   box-sizing: border-box;
   padding: 10px 15px;
