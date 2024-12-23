@@ -19,10 +19,10 @@
 Создаём поля профиля:
 
 1. Первое поле (pa-fld1) - текстовое поле. Предназначено для личного звания. В профиле вставляем код:
-<div class="lz">тут описание личного звания</div>
+```<div class="lz">тут описание личного звания</div>```
 
 2. Второе поле (pa-fld2) - текстовое поле. Предназначено для плашки. В профиле вставляем код:
-<div class="plank"><img class="plankico" src="https://forumstatic.ru/files/0011/c0/7c/66980.png"><div class="planktext"><span>Верхний текст</span><p>нижний текст</p></div></div>
+```<div class="plank"><img class="plankico" src="https://forumstatic.ru/files/0011/c0/7c/66980.png"><div class="planktext"><span>Верхний текст</span><p>нижний текст</p></div></div>```
 
 3. Третье поле (pa-fld3) - текстовое поле. Предназначено для постов.
 
