@@ -933,7 +933,7 @@ pre {font: 11px monaco;}
 }
 
 .post-sig dt {
-  border-bottom: 1px solid #ccc;
+  border-bottom: 1px solid var(--gold);
   width: 300px;
   margin: 10px auto;
 }
